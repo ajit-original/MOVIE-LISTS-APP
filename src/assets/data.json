@@ -1,0 +1,64 @@
+[
+    {
+     "id": 1,
+      "title": "Avatar",
+      "distributor": "20th Century Fox",
+      "year": 2009,
+      "amount": "$2,787,965,087",
+      "img": {
+        "src": "https://static.toiimg.com/photo/msid-5348868/5348868.jpg?26276",
+        "alt": "avatar"
+      },
+      
+      "ranking": 1
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "distributor": "20th Century Fox",
+      "year": 1997,
+      "amount": "$2,187,463,944",
+      "img": {
+        "src": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png",
+        "alt": "titanic"
+      },
+      "ranking": 2
+    },
+    {
+      "id": 3,
+      "title": "Star Wars: The Force Awakens",
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "year": 2015,
+      "amount": "$2,068,223,624",
+      "img": {
+        "src": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg",
+        "alt": "star_wars_the_force_awakens"
+      },
+      "ranking": 3
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Infinity War",
+      "distributor": "Walt Disney Studios Motion Pictures",
+      "year": 2018,
+      "amount": "$2,048,359,754",
+      "img": {
+        "src": "https://cdn.flickeringmyth.com/wp-content/uploads/2018/04/avengers-infinity-war-imax.jpg",
+        "alt": "avengers_infinity_war"
+      },
+      "ranking": 4
+    },
+    {
+      "id": 5,
+      "title": "Jurassic World",
+      "distributor": "Universal Pictures",
+      "year": 2015,
+      "amount": "$1,671,713,208",
+      "img": {
+        "src": "https://flxt.tmsimg.com/assets/p10815284_p_v8_al.jpg",
+        "alt": "src/assets/jurassic_world.jpg"
+      },
+      "ranking": 5
+    }
+  ]
+  
